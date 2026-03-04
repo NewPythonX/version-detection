@@ -1,13 +1,1 @@
-{
-  "Management by:": "Glitched_Hori",
-  "games": [
-    {
-      "gameName": "TestGame",
-      "version": "0.1"
-    },
-    {
-      "title": "TestGame2",
-      "version": "0.2"
-    }
-  ]
-}
+{"Managed by Glitched_Hori", "TestGame": "0.1"}
